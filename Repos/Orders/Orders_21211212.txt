@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+0,Ricky Spanish,PA,6.75,Tile,100,3.50,4.15,350.00,415.00,51.637500,816.637500
+1,Stan Smith,MI,5.75,Wood,100,5.15,4.75,515.00,475.00,56.925000,1046.925000
+2,Brian Griffin,OH,6.25,Carpet,100,2.25,2.10,225.00,210.00,27.187500,462.187500
+3,Homer Simpson,OH,6.25,Tile,100,3.50,4.15,350.00,415.00,47.812500,812.812500
